@@ -4,7 +4,7 @@ I'm a Data Engineer with experience working with [ClickHouse], [Dagster], [Kuber
 
 - 🔭 I’m currently working on our next-gen Data Platform using [ClickHouse], [Dagster], and [Superset] on [Kubernetes].
 - 💼 I'm currently employeed by [Axis Communications] in Lund.
-- 📚 I’m currently reading [Designing Data-Intensive Applications by Martin Kleppman].
+- 📚 I’m currently reading [Designing Data-Intensive Applications by Martin Kleppman] & [Driving Data Quality with Data Contracts].
 - 💬 Ask me about [ClickHouse], [Dagster], [Python], [Kubernetes], [Linux].
 - 📫 How to reach me: [LinkedIn].
 
@@ -16,6 +16,7 @@ I'm a Data Engineer with experience working with [ClickHouse], [Dagster], [Kuber
 [Python]: <https://github.com/python>
 [Linux]: <https://github.com/torvalds/linux>
 [Axis Communications]: <https://github.com/AxisCommunications?view_as=public>
+[Driving Data Quality with Data Contracts]: https://data-contracts.com/
 [Designing Data-Intensive Applications by Martin Kleppman]: <https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/>
 [LinkedIn]: <https://www.linkedin.com/in/antonfriberg/>
 
