@@ -1,12 +1,45 @@
 ### Hi there 👋
 
-I'm a Data Engineer with experience working with [ClickHouse], [Dagster], [Kubernetes], and [Superset]. I'm passionate about building scalable and reliable data platforms that enable organizations to make data-driven decisions.
+I am a Data engineer at [Axis Communications] from Lund, Sweden. In my daily work I navigate the full stack, from bare-metal hardware and vendor negotiations all the way up to ClickHouse, Dagster, and the data models on top.
 
-- 🔭 I’m currently working on our next-gen Data Platform using [ClickHouse], [Dagster], and [Superset] on [Kubernetes].
-- 💼 I'm currently employeed by [Axis Communications] in Lund.
-- 📚 I’m currently reading [Designing Data-Intensive Applications by Martin Kleppman] & [Driving Data Quality with Data Contracts].
-- 💬 Ask me about [ClickHouse], [Dagster], [Python], [Kubernetes], [Linux].
-- 📫 How to reach me: [LinkedIn].
+I get the same satisfaction benchmarking and designing a server as I do tuning a materialized view. The whole stack is the job.
+
+---
+
+### The stack, bottom to top
+
+```
+hardware → virtualization → os → filesystem → containers → orchestration → applications / databases
+```
+
+---
+
+### What I'm working on
+
+Building a next-gen data platform at Axis using [ClickHouse], [Dagster], and [Superset] on [Kubernetes] — on-premise, bare-metal, the real thing.
+
+### Currently reading
+
+- 📖 [Designing Data-Intensive Applications] by Martin Kleppmann
+- 📖 [Driving Data Quality with Data Contracts] by Andrew Jones
+
+### Ask me about
+
+`ClickHouse` · `Dagster` · `Python` · `Kubernetes` · `Linux`
+
+### Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-antonfriberg-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonfriberg/)
+
+---
+
+[Axis Communications]: https://github.com/AxisCommunications?view_as=public
+[ClickHouse]: https://github.com/ClickHouse/ClickHouse
+[Dagster]: https://github.com/dagster-io/dagster
+[Superset]: https://github.com/apache/superset
+[Kubernetes]: https://github.com/kubernetes/kubernetes
+[Designing Data-Intensive Applications]: https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+[Driving Data Quality with Data Contracts]: https://data-contracts.com/
 
 
 [ClickHouse]: <https://github.com/ClickHouse/ClickHouse>
